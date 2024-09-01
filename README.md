@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanjoydas&label=Profile%20views&color=0e75b6&style=flat" alt="devanjoydas" /> </p>
 
-- Full Stack Developer Intern [AREVEI PVT LTV](https://www.arevei.com)
+- Full Stack Developer Intern at [AREVEI PVT LTD](https://www.arevei.com)
 
 - 👨‍💻 All of my projects are available at [https://devanjoy-portfolio.vercel.app](https://devanjoy-portfolio.vercel.app)
 
